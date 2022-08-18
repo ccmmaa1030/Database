@@ -191,5 +191,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python
 
-/**/*.sqlite3
-/**/*.csv
+*.sqlite3
+*.csv
